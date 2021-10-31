@@ -2,9 +2,9 @@
 #include<math.h>
 using namespace std;
 int main(){	
-	cout<<"::BASIC CALCULATOR::"<<endl;
+	cout<<"::CALCULATOR::"<<endl;
 	cout<<"1) ADD"<<"  "<<"2) SUB"<<"  "<<"3) MUL"<<"  "<<"4) DIV"<<"  "<<"5) REM"<<endl;
-	cout<<"ENTER THE OPTION YOU WANT :"<<endl;	
+	cout<<"ENTER THE Arithmatic operation YOU WANT :"<<endl;	
 	int option;
 	cin>>option;
 	if(option<5){
